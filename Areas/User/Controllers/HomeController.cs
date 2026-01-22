@@ -7,7 +7,7 @@ namespace mvc_project.Areas.User.Controllers
     {
         public IActionResult Index()
         {
-            return Content( "is home for user");
+            return View("Index");
         }
     }
 }
