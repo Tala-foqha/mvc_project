@@ -267,9 +267,6 @@ C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Re
 C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\rjimswa.dswa.cache.json
 C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\rjsmcshtml.dswa.cache.json
-C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\scopedcss\Areas\Admin\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\scopedcss\Areas\User\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\scopedcss\bundle\mvc_project.styles.css
 C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\scopedcss\projectbundle\mvc_project.bundle.scp.css
 C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\compressed\fcni3ntglp-b9sayid5wm.gz
@@ -336,8 +333,6 @@ C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Re
 C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\compressed\q8btapiuwo-muycvpuwrr.gz
 C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\compressed\6djdpspa9t-87fc7y1x7t.gz
 C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\compressed\01m4u6l6ze-mlv21k5csn.gz
-C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\compressed\elrghzflum-srvdhafpf6.gz
-C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\compressed\kxdme92b2r-srvdhafpf6.gz
 C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\staticwebassets.build.json
 C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\staticwebassets.build.json.cache
 C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\staticwebassets.development.json
@@ -349,3 +344,11 @@ C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Re
 C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\mvc_project.pdb
 C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\mvc_project.genruntimeconfig.cache
 C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\ref\mvc_project.dll
+C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\scopedcss\Areas\User\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\compressed\6166by0me9-3w7jejt5b1.gz
+C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\compressed\zrn55bcs2x-1za78g898y.gz
+C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\compressed\s4ml4cq6x4-vtm9dvzpet.gz
+C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\compressed\powd7e2d2v-jmgwmyfb49.gz
+C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\compressed\elrghzflum-uv55rk7091.gz
+C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Release\net9.0\compressed\kxdme92b2r-uv55rk7091.gz

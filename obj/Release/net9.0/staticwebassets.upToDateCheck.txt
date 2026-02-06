@@ -63,6 +63,15 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\admin\css\adminlte.css
+wwwroot\admin\css\adminlte.css.map
+wwwroot\admin\imgs\AdminLTELogo.png
+wwwroot\admin\imgs\user1-128x128.jpg
+wwwroot\admin\imgs\user2-160x160.jpg
+wwwroot\admin\imgs\user3-128x128.jpg
+wwwroot\admin\imgs\user8-128x128.jpg
+wwwroot\admin\js\adminlte.js
+wwwroot\admin\js\adminlte.js.map
 C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\wwwroot\css\site.css
 C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\wwwroot\css\styles.css
 C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\wwwroot\favicon.ico
@@ -127,3 +136,7 @@ C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\wwwroo
 C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\wwwroot\admin\css\adminlte.css.map
+C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\wwwroot\admin\css\adminlte.css
+C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\wwwroot\admin\js\adminlte.js
+C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\wwwroot\admin\js\adminlte.js.map

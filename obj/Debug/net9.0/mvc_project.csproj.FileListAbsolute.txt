@@ -348,3 +348,7 @@ C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\De
 C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Debug\net9.0\scopedcss\Areas\User\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Debug\net9.0\compressed\elrghzflum-uv55rk7091.gz
 C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Debug\net9.0\compressed\kxdme92b2r-uv55rk7091.gz
+C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Debug\net9.0\compressed\6166by0me9-3w7jejt5b1.gz
+C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Debug\net9.0\compressed\zrn55bcs2x-1za78g898y.gz
+C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Debug\net9.0\compressed\s4ml4cq6x4-vtm9dvzpet.gz
+C:\Users\talaF\OneDrive\Documents\asp\backend\mvc\mvc_project\mvc_project\obj\Debug\net9.0\compressed\powd7e2d2v-jmgwmyfb49.gz
